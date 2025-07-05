@@ -23,5 +23,10 @@
   "homepage": "https://github.com/shahab-27/Backend#readme",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
   }
 }
