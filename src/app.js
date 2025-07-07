@@ -18,3 +18,6 @@ app.use(express.urlencoded({
     limit : "16kb"
 }))
 app.use(express.static("public"))
+
+
+export {app}
