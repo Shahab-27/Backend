@@ -1,6 +1,7 @@
 // npm i mongoose-aggregate-paginate-v2
 // npm i bcrypt jsonwebtoken
-// npm install cloudinary
+// npm i cloudinary
+// npm i multer
 import mongoose, {Schema} from "mongoose";
 import jwt from "jsonwebtoken"
 import bcrypt from "bcrypt"
